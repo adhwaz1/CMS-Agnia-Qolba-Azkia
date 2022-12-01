@@ -1,0 +1,24 @@
+
+---Downloaded files---
+The import files for: Education Business School Homepage were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress\wp-content\plugins\cyclone-demo-importer//themes/education-business-school/inc/content.xml
+Widget file = not defined!
+Customizer file = C:\xampp\htdocs\wordpress\wp-content\plugins\cyclone-demo-importer//themes/education-business-school/inc/options.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

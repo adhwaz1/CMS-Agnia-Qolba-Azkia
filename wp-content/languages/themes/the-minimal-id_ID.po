@@ -1,0 +1,760 @@
+# Translation of Themes - The Minimal in Indonesian
+# This file is distributed under the same license as the Themes - The Minimal package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-14 12:33:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: id\n"
+"Project-Id-Version: Themes - The Minimal\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "The Minimal"
+msgstr "The Minimal"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "The Minimal is a fresh, clean and a minimalist WordPress theme designed for a blog or a magazine. The large featured slider with advance slider options makes this theme a great choice for photography, travel, food, fashion, travel, lifestyle, sports or any other awesome blog.  The clean typography and spacious white layout make it great to share your stories.  The three footer widget areas offer plenty of space for any secondary information, and striking typography makes the content look stunning. The Theme has a built-in Recent Posts widget, Popular Post widget, Social Links widget and Author widget. It features full width page option, two menus, SEO friendly structure, custom logo support and social media links. The Minimal supports all types of post format like links, aside, quotes, galleries, image, audio, video, status and chat. The theme is responsive and scales beautifully with various screen sizes while maintaining the text readability and image quality. The theme is also translation ready. Check the demo at https://rarathemes.com/previews/?theme=the-minimal, documentation at https://docs.rarathemes.com/docs/the-minimal/, and get support at https://rarathemes.com/support-ticket/."
+msgstr "The Minimal adalah tema WordPress yang segar, bersih, dan minimalis yang dirancang untuk blog atau majalah. Slider berfitur besar dengan opsi slider canggih menjadikan tema ini pilihan yang cocok untuk fotografi, perjalanan, makanan, mode, perjalanan, gaya hidup, olahraga, atau blog keren lainnya. Tipografi yang bersih dan tata ruang putih yang luas membuatnya bagus untuk berbagi cerita Anda. Tiga area widget footer menawarkan banyak ruang untuk informasi sekunder apa pun, dan tipografi yang mencolok membuat konten terlihat memukau. Tema ini memiliki widget Artikel Terbaru, widget Artikel Populer, widget Tautan Sosial, dan widget Penulis. Ini fitur opsi halaman lebar penuh, dua menu, struktur SEO friendly, dukungan logo khusus dan tautan media sosial. Minimal mendukung semua jenis format posting seperti tautan, samping, kutipan, galeri, gambar, audio, video, status, dan obrolan. Tema responsif dan berskala indah dengan berbagai ukuran layar sambil mempertahankan keterbacaan teks dan kualitas gambar. Tema juga siap diterjemahkan. Cek demo di https://rarathemes.com/previews/?theme=the-minimal, dokumentasi di https://docs.rarathemes.com/docs/the-minimal/, dan dapatkan layanan bantuan di https://rarathemes.com/support-ticket/."
+
+#: functions.php:308
+msgid "Go to the getting started."
+msgstr "Klik untuk memulai."
+
+#: functions.php:307
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "%1$s saat ini sudah diinstall dan siap digunakan. Klik di bawah untuk melihat dokumentasi tema, plugin untuk diinstal dan detail lainnya untuk memulai."
+
+#: functions.php:306
+msgid "Congratulations!"
+msgstr "Selamat!"
+
+#: header.php:28
+msgid "Skip to content (Press Enter)"
+msgstr "Lompat ke konten (Tekan Enter)"
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Visit the demo to get more idea about our theme design and its features."
+msgstr "Kunjungi demo untuk medapatkan ide tambahan mengenai desain tema kami dan fitur-fiturnya."
+
+#: inc/getting-started/tabs/help-panel.php:24
+msgid "Contact Support"
+msgstr "Hubungi Layanan Bantuan"
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "Visit the Support"
+msgstr "Kunjungi Layanan Bantuan"
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "If the Documentation Guide didn't help you, contact us via our %1$sSupport Ticket%2$s. We reply to all the support queries within one business day, except on the weekends."
+msgstr "Jika Panduan Dokumentasi tidak membantu Anda, hubungi kami melalui %1$sTiket Layanan Bantuan%2$s. Kami akan membalas semua permintaan bantuan dalam satu hari kerja, kecuali pada akhir pekan."
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid "It's always better to visit our %1$sDocumentation Guide%2$s before you send us a support query."
+msgstr "Lebih baik selalu mengunjungi %1$sPanduan Dokumentasi%2$s sebelum Anda mengirimkan permintaan bantuan kepada kami."
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Support Ticket"
+msgstr "Tiket Bantuan"
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "View Documentation"
+msgstr "Lihat Dokumentasi"
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr "Kunjungi Dokumentasi"
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid "Are you new to the WordPress world? Our step by step easy documentation guide will help you create an attractive and engaging website without any prior coding knowledge or experience."
+msgstr "Apakah Anda baru mengenal WordPress? Panduan langkah-demi-langkah dalam Dokumentasi kami yang mudah akan membantu Anda membuat situs web yang menarik dan menawan tanpa pengetahuan atau pengalaman koding sebelumnya."
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid "View Our Documentation Link"
+msgstr "Lihat Tautan Dokumentasi Kami"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:13
+msgid "View Pro"
+msgstr "Lihat Pro"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:12
+#: inc/getting-started/tabs/link-panel.php:13
+msgid "View Premium Version"
+msgstr "Lihat Versi Premium"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:11
+msgid "Free vs Pro"
+msgstr "Gratis vs Pro"
+
+#: functions.php:309
+msgid "Dismiss"
+msgstr "Singkirkan"
+
+#: inc/getting-started/tabs/support-panel.php:21
+msgid "Along with the additional features and regular updates, you get dedicated and quick support with the premium theme. If you run into any issue while creating a website with the premium theme, you will get a quicker response compared to the free support."
+msgstr "Seiring dengan fitur tambahan dan pembaruan rutin, Anda akan mendapatkan bantuan khusus dan cepat dengan tema premium. Ketika Anda mengalami masalah saat membuat situs web dengan tema premium, Anda akan mendapatkan respon yang lebih cepat dibanding dengan bantuan gratis."
+
+#: inc/getting-started/tabs/support-panel.php:19
+msgid "What are the perks of upgrading to the Premium version?"
+msgstr "Apa saja kelebihan mengupgrade ke versi Premium?"
+
+#: inc/getting-started/tabs/support-panel.php:14
+msgid "Overall, you will have more control over the customization and editing of your website with the Pro version."
+msgstr "Secara keseluruhan, Anda akan memiliki kontrol lebih terhadap penyesuaian dan pengeditan situs web Anda dengan versi Pro."
+
+#: inc/getting-started/tabs/support-panel.php:11
+msgid "What is the difference between Free and Pro?"
+msgstr "Apa perbedaan antara Gratis dan Pro?"
+
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the knowledge base"
+msgstr "Kunjungi pusat pengetahuan"
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Our documentation comes with a step-by-step guide from installing WordPress to customizing our theme to creating an attractive and engaging website."
+msgstr "Dokumentasi kami dilengkapi panduan langkah-demi-langkah dari instalasi WordPress hingga menyesuaikan tema untuk membuat situs web yang menarik dan memikat."
+
+#: inc/getting-started/tabs/link-panel.php:20
+msgid "Need help with WordPress and our theme as quickly as possible? Visit our well-organized documentation."
+msgstr "Membutuhkan bantuan dengan WordPress dan tema kami secepat mungkin? Kunjungi dokumentasi yang terorganisir kami."
+
+#: inc/getting-started/tabs/link-panel.php:19
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the Knowledge Base"
+msgstr "Kunjungi Pusat Pengetahuan"
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "Read more about the features here"
+msgstr "Baca selengkapnya tentang fitur-fitur di sini"
+
+#: inc/getting-started/tabs/link-panel.php:10
+msgid "Upgrade To Pro"
+msgstr "Upgrade ke Pro"
+
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "View Demo"
+msgstr "Lihat Demo"
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Demo"
+msgstr "Kunjungi Demo"
+
+#: inc/getting-started/getting-started.php:118
+#: inc/getting-started/tabs/plugins-panel.php:10
+msgid "Recommended Plugins"
+msgstr "Plugin yang Disarankan"
+
+#: inc/getting-started/tabs/support-panel.php:54
+msgid "Also, when you submit the support ticket, please try to provide maximum details so that we can look into your issue in detail and solve it in minimum time. We recommend you to send us a screenshot(s) with issues explained and your website's address (URL)."
+msgstr "Selain itu, ketika Anda mengirimkan tiket bantuan, harap untuk memberikan rincian secara lengkap agar kami dapat melihat masalah Anda secara terperinci dan menyelesaikan permasalahan secepat mungkin. Kami merekomendasikan Anda untuk mengirimkan tangkapan layar (screenshots) beserta penjelasan permasalahannya dan alamat situs web Anda (URL)."
+
+#: inc/getting-started/tabs/support-panel.php:53
+msgid "Please ensure that you have updated to the latest version of the theme before you submit a support ticket for any issue. We might have already fixed the bug in the previous theme update."
+msgstr "Harap pastikan bahwa Anda telah memperbarui tema ke versi terbaru sebelum Anda mengirimkan tiket bantuan untuk masalah apa pun. Kami mungkin telah memperbaiki bug di pembaruan tema sebelumnya."
+
+#: inc/getting-started/tabs/support-panel.php:51
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "Bagaimana saya memecahkan masalah dengan cepat dan memperoleh layanan bantuan yang lebih cepat? "
+
+#: inc/getting-started/tabs/support-panel.php:46
+msgid "If this didn't help, please contact us via our %1$sSupport Ticket%2$s."
+msgstr "Jika hal ini tidak membantu, silakan hubungi kami via %1$sTiket Layanan Bantuan%2$s."
+
+#: inc/getting-started/tabs/support-panel.php:45
+msgid "To solve the issue, deactivate all the plugins first, except the ones recommended by the theme. Then, hard reload your website using %1$s\"Ctrl+Shift+R\"%2$s on Windows and %1$s\"Cmd+Shift+R\"%2$s on Mac. If the issues are fixed, start activating the plugins one by one, and reload and check your site each time. This will help you find out the plugin that is causing the problem."
+msgstr "Untuk mengatasi masalah ini, nonaktifkan semua plugin terlebih dahulu, kecuali yang direkomendasikan oleh tema. Kemudian, muat ulang situs Anda menggunakan %1$s\"Ctrl+Shift+R\"%2$s untuk Windows dan %1$s\"Cmd+Shift+R\"%2$s untuk Mac. Jika masalah teratasi, mulai aktifkan plugin satu per satu, dan muat ulang dan periksa situs Anda pada saat itu. Ini akan membantu Anda mengetahui plugin mana yang menyebabkan masalah."
+
+#: inc/getting-started/tabs/support-panel.php:44
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr "Jika Customizer Anda tidak memuat dengan benar atau Anda mengalami masalah dengan tema, hal itu mungkin karena konflik plugin."
+
+#: inc/getting-started/tabs/support-panel.php:42
+msgid "Why is my theme not working well?"
+msgstr "Mengapa tema saya tidak berfungsi dengan baik?"
+
+#: inc/getting-started/tabs/support-panel.php:37
+msgid "You can change the copyright text going to %1$sAppearance > Customize > Footer Settings%2$s. However, if you want to hide the author credit text, please %3$supgrade to the Pro version%4$s."
+msgstr "Anda dapat merubah teks hak cipta dengan menuju %1$sTampilan > Sesuaikan > Pengaturan Footer%2$s. Namun, jika Anda ingin menyembunyikan teks apresiasi penulis, silakan %3$supgrade ke versi Pro%4$s."
+
+#: inc/getting-started/tabs/support-panel.php:35
+msgid "How do I change the copyright text?"
+msgstr "Bagaimana saya merubah teks hak cipta?"
+
+#: inc/getting-started/tabs/support-panel.php:30
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr "Versi Pro dibuat dengan banyak fleksibilitas dengan mengedepankan pembaruan yang akan datang. Untuk itu, versi ini sedikit berbeda dengan tema gratis tetapi sangat fleksibel dan mudah digunakan."
+
+#: inc/getting-started/tabs/support-panel.php:29
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr "Namun, karena versi Pro hadir dengan tambahan fitur dan pengaturan, Anda perlu mengatur fitur tambahan di Customizer. Proses ini sederhana dan hanya membutuhkan beberapa menit."
+
+#: inc/getting-started/tabs/support-panel.php:28
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr "Ketika Anda mengupgrade ke tema Pro, artikel Anda, halaman, media, kategori, dan data lainnya akan tetap utuh -- semua data Anda disimpan."
+
+#: inc/getting-started/tabs/support-panel.php:26
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "Upgrade ke versi Pro -- apakah saya akan kehilangan perubahan?"
+
+#: inc/getting-started/getting-started.php:145
+msgid "Free Vs Pro"
+msgstr "Gratis Vs Pro"
+
+#: inc/getting-started/getting-started.php:136
+msgid "FAQ's &amp; Support"
+msgstr "Bantuan &amp; Tanya Jawab"
+
+#: inc/getting-started/getting-started.php:106
+msgid "You will find everything you need to get started with %1$s below."
+msgstr "Anda akan menemukan apa pun yang dibutuhkan untuk memulai dengan %1$s berikut."
+
+#: inc/getting-started/getting-started.php:105
+msgid "Getting started with %1$s v%2$s"
+msgstr "Memulai dengan %1$s v%2$s"
+
+#: inc/getting-started/getting-started.php:40
+msgid "Activating "
+msgstr "Mengaktifkan"
+
+#: inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:17
+#: inc/getting-started/getting-started.php:127
+msgid "Getting Started"
+msgstr "Memulai"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+msgid "Jetpack Portfolio"
+msgstr "Portfolio Jetpack"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:104
+msgid "Deactivate"
+msgstr "Nonaktifkan"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:89
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:85
+msgid "Install and activate"
+msgstr "Instal dan aktifkan"
+
+#: inc/getting-started/tabs/plugins-panel.php:36
+msgid "Version %s"
+msgstr "Versi %s"
+
+#: inc/getting-started/tabs/plugins-panel.php:26
+msgid "These Free Plugins might be handy for you."
+msgstr "Plugin Gratis ini mungkin berguna untuk Anda."
+
+#: inc/getting-started/tabs/plugins-panel.php:25
+msgid "Free Plugins"
+msgstr "Plugin Gratis"
+
+#: inc/getting-started/tabs/help-panel.php:29
+msgid "View Our The Minimal Demo"
+msgstr "Lihat Demo The Minimal Kami"
+
+#: inc/getting-started/tabs/plugins-panel.php:12
+msgid "Here is a list of recommended plugins you should install to get most out of the The Minimal. Though every plugin is optional, we recommend you to at least install %1$sRara One Click Demo Import%2$s to create a website similar to the The Minimal demo and also to ensure every feature of the theme works correctly."
+msgstr "Berikut adalah daftar plugin yang disarankan untuk Anda instal untuk mendapatkan hasil maksimal dari The Minimal. Meskipun instalasi semua plugin bersifat opsional, kami menyarankan Anda untuk setidaknya menginstal %1$sRara One Click Demo Import%2$s untuk membuat situs web yang mirip dengan demo The Minimal dan juga untuk memastikan setiap fitur tema berfungsi dengan baik."
+
+#: inc/getting-started/tabs/link-panel.php:12
+msgid "Also, the premium theme gets regular updates and has a dedicated support team to solve your queries."
+msgstr "Dan, versi Pro diperbarui secara teratur dan tersedia tim pelayanan bantuan yang berdedikasi menjawab pertanyaan Anda."
+
+#: inc/getting-started/tabs/link-panel.php:11
+msgid "The Pro version of the theme allows you to change the look and feel of the website with just a few clicks. You can easily change the color, background image and pattern, as well as fonts of the website with the Pro theme. The Pro version comes with multiple layouts to help you create an attractive and engaging website. Furthermore, the premium themes are WPML and Polylang compatible to allow you to create a multilingual website with ease."
+msgstr "Tema versi Pro memungkinkan Anda untuk mengubah tampilan dan rasa situs web hanya dengan beberapa klik. Anda dapat dengan mudah mengubah warna, gambar latar belakang dan pola serta font situs web dengan versi Pro. Versi Pro hadir dengan layout banyak yang dapat membantu Anda membuat situs web yang atraktif dan menarik. Lebih dari itu, tema premium kompatibel dengan WPML dan Polylang yang memungkinkan Anda membuat situs web multi-bahasa dengan mudah."
+
+#: inc/getting-started/tabs/support-panel.php:13
+msgid "Both the Free and Pro version of the themes are coded well and are developed with best coding practices. However, the Pro version of the theme comes with extended features and dedicated support team to help you solve your queries. The Pro theme comes with multiple layouts to help you create a unique and attractive website. Also, the Pro themes are fully compatible with Polylang and WPML plugin to help you create a multilingual blog and get wide reach."
+msgstr "Tema versi Free dan Pro dikoding dengan baik dan dikembangkan dengan praktik koding terbaik. Namun, versi Pro hadir dengan fitur yang lebih banyak dan tim layanan bantuan berdedikasi untuk membantu memecahkan masalah Anda. Tema Pro hadir dengan layout banyak yang dapat membantu Anda membuat situs web yang atraktif dan menarik. Lebih dari itu, tema premium kompatibel dengan WPML dan Polylang yang memungkinkan Anda membuat blog multi-bahasa dan memperoleh jangkauan yang luas."
+
+#: inc/widget-featured-post.php:117
+msgid "Excerpt Word Count"
+msgstr "Jumlah Kata dalam Ringkasan"
+
+#: inc/extras.php:287
+msgid "The Minimal | Developed By "
+msgstr "The Minimal | Dikembangkan Oleh"
+
+#: inc/extras.php:166
+msgid "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">says:</span>"
+msgstr "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">says:</span>"
+
+#: inc/extras.php:285
+msgid "Y"
+msgstr "Y"
+
+#: inc/customizer.php:541 inc/extras.php:82 inc/widget-social-links.php:80
+#: inc/widget-social-links.php:182
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/customizer.php:523 inc/extras.php:80 inc/widget-social-links.php:78
+#: inc/widget-social-links.php:176
+msgid "VK"
+msgstr "VK"
+
+#: inc/customizer.php:505 inc/extras.php:78 inc/widget-social-links.php:76
+#: inc/widget-social-links.php:170
+msgid "OK"
+msgstr "Oke"
+
+#: inc/info.php:24
+msgid "Support ticket"
+msgstr "Tiket Bantuan"
+
+#: inc/info.php:23
+msgid "View documentation"
+msgstr "Lihat Dokumentasi"
+
+#: inc/info.php:22 inc/info.php:23 inc/info.php:24 inc/info.php:25
+msgid "here"
+msgstr "di sini"
+
+#: inc/info.php:22
+msgid "View demo"
+msgstr "Lihat demo"
+
+#: inc/info.php:21
+msgid "Need help?"
+msgstr "Perlu bantuan?"
+
+#: inc/info.php:11
+msgid "Information Links"
+msgstr "Tautan Informasi"
+
+#: inc/info.php:147
+msgid "VIEW PRO THEME"
+msgstr "LIHAT TEMA PRO"
+
+#: inc/info.php:145
+msgid "Pro Available"
+msgstr "Tersedia Versi Pro"
+
+#: inc/info.php:25
+msgid "More Details"
+msgstr "Rincian Lengkap"
+
+#: inc/info.php:29
+msgid "About The Minimal"
+msgstr "Tentang The Minimal"
+
+#: inc/extras.php:212
+msgid "Website"
+msgstr "Situs Web"
+
+#: inc/extras.php:205
+msgid "Email*"
+msgstr "E-mail*"
+
+#: inc/extras.php:204
+msgid "Name*"
+msgstr "Nama*"
+
+#: inc/extras.php:225
+msgid "Comment"
+msgstr "Komentar"
+
+#: inc/customizer.php:254
+msgid "Choose Slider Animation"
+msgstr "Pilih Animasi Slider"
+
+#: inc/customizer.php:218
+msgid "Enable Slider Caption"
+msgstr "Aktifkan Keterangan Slider"
+
+#: inc/customizer.php:182
+msgid "Enable Slider Loop"
+msgstr "Aktifkan Loop Slider"
+
+#: inc/customizer.php:164
+msgid "Enable Slider Auto Transition"
+msgstr "Aktifkan Transisi Otomatis Slider"
+
+#: inc/customizer.php:146
+msgid "Enable Home Page Slider"
+msgstr "Aktifkan Slider di Halaman Awal"
+
+#: inc/customizer.php:128
+msgid "Slider Settings"
+msgstr "Pengaturan Slider"
+
+#: inc/customizer.php:451 inc/extras.php:72 inc/widget-social-links.php:152
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer.php:433 inc/extras.php:70 inc/widget-social-links.php:68
+#: inc/widget-social-links.php:146
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer.php:415 inc/extras.php:68 inc/widget-social-links.php:66
+#: inc/widget-social-links.php:140
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/customizer.php:397 inc/extras.php:66 inc/widget-social-links.php:64
+#: inc/widget-social-links.php:134
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:379 inc/extras.php:64 inc/widget-social-links.php:62
+#: inc/widget-social-links.php:128
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:361 inc/extras.php:62 inc/widget-social-links.php:60
+#: inc/widget-social-links.php:122
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:343
+msgid "Enable Social Links"
+msgstr "Aktifkan Tautan Media Sosial"
+
+#: inc/customizer.php:325
+msgid "Leave blank if you do not want to show the social link."
+msgstr "Biarkan kosong jika Anda tidak ingin menampilkan tautan media sosial."
+
+#: inc/customizer.php:324
+msgid "Social Settings"
+msgstr "Pengaturan Media Sosial"
+
+#: inc/customizer.php:312
+msgid "Choose Slider Category"
+msgstr "Pilih Kategori Slider"
+
+#: inc/customizer.php:294
+msgid "Readmore Text"
+msgstr "Teks Baca Selengkapnya"
+
+#: inc/customizer.php:286 inc/extras.php:98
+#: template-parts/content-search.php:27 template-parts/content.php:66
+msgid "Continue Reading"
+msgstr "Lanjut Baca"
+
+#: inc/customizer.php:276
+msgid "Slider Speed"
+msgstr "Kecepatan Slider"
+
+#: inc/customizer.php:259
+msgid "Slide"
+msgstr "Slide"
+
+#: inc/customizer.php:258
+msgid "Fade"
+msgstr "Memudar"
+
+#: inc/template-tags.php:26
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Komentar"
+msgstr[1] "%1$s Komentar"
+
+#: inc/metabox.php:40
+msgid "Choose Sidebar Template"
+msgstr "Pilih Templat Sidebar"
+
+#: inc/metabox.php:25
+msgid "Right sidebar (default)"
+msgstr "Sidebar kanan (baku)"
+
+#: inc/metabox.php:14
+msgid "Sidebar Layout"
+msgstr "Layout Sidebar"
+
+#: inc/extras.php:289
+msgid "https://wordpress.org/"
+msgstr "https://id.wordpress.org/"
+
+#: inc/extras.php:289
+msgid "Powered by: %s"
+msgstr "Didukung oleh: %s"
+
+#: inc/extras.php:285
+msgid "Copyright &copy; "
+msgstr "Hak Cipta &copy;"
+
+#: inc/extras.php:175
+msgid "Edit"
+msgstr "Sunting"
+
+#: inc/extras.php:169
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda sedang menunggu moderasi."
+
+#: inc/customizer.php:592
+msgid "Put your custom CSS"
+msgstr "Terapkan CSS khusus Anda"
+
+#: inc/customizer.php:590
+msgid "Custom Css"
+msgstr "CSS Khusus"
+
+#: inc/customizer.php:572
+msgid "Custom CSS Settings"
+msgstr "Pengaturan CSS Khusus"
+
+#: inc/customizer.php:487 inc/extras.php:76 inc/widget-social-links.php:74
+#: inc/widget-social-links.php:164
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/customizer.php:469 inc/extras.php:74 inc/widget-social-links.php:72
+#: inc/widget-social-links.php:158
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr "RARA: Artikel Populer"
+
+#: inc/widget-featured-post.php:123 inc/widget-popular-post.php:118
+#: inc/widget-recent-post.php:117
+msgid "Show Post Thumbnail"
+msgstr "Tampilkan Thumbnail Artikel"
+
+#: inc/widget-featured-post.php:113
+msgid "Read More Text"
+msgstr "Teks Baca Selengkapnya"
+
+#: inc/widget-featured-post.php:39 inc/widget-featured-post.php:96
+#: inc/widget-featured-post.php:142
+msgid "Read More"
+msgstr "Baca Selengkapnya"
+
+#: inc/widget-featured-post.php:26
+msgid "A Featured Post Widget"
+msgstr "Widget Artikel Unggulan"
+
+#: inc/widget-featured-post.php:25
+msgid "RARA: Featured Post"
+msgstr "RARA: Artikel Unggulan"
+
+#: inc/template-tags.php:78
+msgid "Page"
+msgstr "Laman"
+
+#: inc/template-tags.php:77
+msgid "Next"
+msgstr "Berikut"
+
+#: inc/template-tags.php:76
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:59 template-parts/content-page.php:46
+msgid "Edit %s"
+msgstr "Sunting %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:44 inc/template-tags.php:50
+msgid ", "
+msgstr ", "
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Tidak Ada yang Ditemukan"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#: inc/widget-social-links.php:70
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/widget-social-links.php:40 inc/widget-social-links.php:99
+#: inc/widget-social-links.php:208
+msgid "Social"
+msgstr "Sosial"
+
+#: inc/widget-social-links.php:26
+msgid "A Social Links Widget"
+msgstr "Widget Tautan Media Sosial"
+
+#: inc/widget-social-links.php:25
+msgid "RARA: Social Links"
+msgstr "RARA: Tautan Media Sosial"
+
+#: inc/widget-recent-post.php:40 inc/widget-recent-post.php:98
+#: inc/widget-recent-post.php:140
+msgid "Recent Posts"
+msgstr "Artikel Terbaru"
+
+#: inc/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr "Widget Artikel Terbaru"
+
+#: inc/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr "RARA: Artikel Terbaru"
+
+#: inc/widget-popular-post.php:123 inc/widget-recent-post.php:122
+msgid "Show Post Date"
+msgstr "Tampilkan Tanggal Artikel"
+
+#: inc/widget-popular-post.php:112 inc/widget-recent-post.php:111
+msgid "Number of Posts"
+msgstr "Jumlah Artikel"
+
+#: inc/widget-popular-post.php:107 inc/widget-recent-post.php:106
+#: inc/widget-social-links.php:117
+msgid "Title"
+msgstr "Judul"
+
+#: inc/widget-popular-post.php:40 inc/widget-popular-post.php:99
+#: inc/widget-popular-post.php:141
+msgid "Popular Posts"
+msgstr "Artikel Populer"
+
+#: inc/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr "Widget Artikel Populer"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:47
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lanjutkan membaca %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:35 template-parts/content.php:59
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Tampaknya kami tak bisa menemukan apa yang Anda inginkan. Mungkin pencarian bisa membantu."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tapi tak ada yang cocok dengan terma pencarian Anda. Silakan coba lgi dengan kata kunci berbeda."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap menerbitkan artikel pertama Anda? <a href=\"%1$s\">Mulai di sini</a>."
+
+#: inc/metabox.php:30
+msgid "No sidebar"
+msgstr "Tanpa sidebar"
+
+#: inc/widget-featured-post.php:103
+msgid "Posts"
+msgstr "Artikel"
+
+#: inc/widget-featured-post.php:84
+msgid "--choose--"
+msgstr "--Pilih--"
+
+#: inc/widget-social-links.php:124 inc/widget-social-links.php:130
+#: inc/widget-social-links.php:136 inc/widget-social-links.php:142
+#: inc/widget-social-links.php:148 inc/widget-social-links.php:154
+#: inc/widget-social-links.php:160 inc/widget-social-links.php:166
+#: inc/widget-social-links.php:172 inc/widget-social-links.php:178
+#: inc/widget-social-links.php:184 inc/widget-social-links.php:190
+msgid "Leave blank if you do not want to show."
+msgstr "Biarkan kosong jika Anda tidak ingin menampilkan."
+
+#: inc/template-tags.php:52
+msgid "TAGGED WITH: %1$s"
+msgstr "DITANDAI DENGAN: %1$s"
+
+#: inc/customizer.php:236
+msgid "Enable Slider Thumbnail"
+msgstr "Aktifkan Thumbnail Slider"
+
+#: inc/customizer.php:200
+msgid "Enable Slider Control"
+msgstr "Aktifkan Kontrol Slider"
+
+#: inc/template-tags.php:46
+msgid "FILED UNDER: %1$s"
+msgstr "DITULIS DALAM: %1$s"
+
+#: functions.php:52
+msgid "Secondary"
+msgstr "Sekunder"
+
+#: functions.php:51
+msgid "Primary"
+msgstr "Utama"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:49
+msgid "Newer Comments"
+msgstr "Komentar Lebih Baru"
+
+#: comments.php:48
+msgid "Older Comments"
+msgstr "Komentar Sebelumnya"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: comments.php:29
+msgid "Comments"
+msgstr "Komentar"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tak ditemukan."
+
+#: inc/customizer.php:39
+msgid "Default section provided by wordpress customizer."
+msgstr "Bagian dasar disediakan oleh WordPress Customizer."
+
+#: inc/customizer.php:38
+msgid "Default Settings"
+msgstr "Pengaturan Dasar"
+
+#: inc/customizer.php:26
+msgid "Choose Category"
+msgstr "Pilih Kategori"
+
+#: functions.php:172
+msgid "Footer Three"
+msgstr "Footer Tiga"
+
+#: functions.php:162
+msgid "Footer Two"
+msgstr "Footer Dua"
+
+#: functions.php:152
+msgid "Footer One"
+msgstr "Footer Satu"
+
+#: functions.php:142
+msgid "Right Sidebar"
+msgstr "Sidebar Kanan"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links or a search?"
+msgstr "Nampaknya tidak ada yang ditemukan. Mungkin coba salah satu tautan di bawah atau lakukan pencarian?"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://rarathemes.com/wordpress-themes/the-minimal/"
+msgstr "https://rarathemes.com/wordpress-themes/the-minimal/"
+
+#. Author of the theme
+#: inc/extras.php:288
+#, gp-priority: low
+msgid "Rara Theme"
+msgstr "Rara Theme"

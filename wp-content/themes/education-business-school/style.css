@@ -1,0 +1,104 @@
+/*
+Theme Name: Education Business School
+Template: bizberg
+Text Domain: education-business-school
+Author: Bizberg Themes
+Author URI: https://bizbergthemes.com/
+Theme URI: https://bizbergthemes.com/downloads/education-business-school/
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Description: Education Business School is child theme of Bizberg WordPress Theme. Theme is a clean & modern Education WordPress Theme. Education Business School is suitable for any tuition, marketing, book selling, university, workshop, college, school, course hub, training center, blogging or any kind of educational institution. Also Education Business School theme is a perfect solution for your educational websites. This Free WordPress theme is fully responsive, cross-browser compatible, translation ready & SEO friendly. If you run into any problem while using our theme, you can refer to extensive documentation or contact our friendly support team. It fully supports Elementor, all the sections are made from Elementor.
+Tags: custom-logo,custom-menu,featured-images,threaded-comments,translation-ready,left-sidebar,right-sidebar,grid-layout,theme-options,blog,news,portfolio
+Version: 0.6
+Requires at least: 4.9
+Tested up to: 5.8
+Requires PHP: 5.6
+*/
+
+.footer_social_links{
+	display: block;
+}
+
+.imagepost{padding: 50px 0 20px;}
+
+.imagepost-item{
+	position: relative;
+	overflow: hidden;
+	margin-bottom: 30px;
+	display: flex;
+}
+
+.imagepost-item h5{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+    transform: translate(-50%,-50%);
+    padding: 10px 30px;
+    min-height: 42px;
+    min-width: 200px;
+    text-align: center;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+}
+
+.imagepost-item a.imagepost-content{
+	transition: all ease-in-out 0.5s;
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: 300px;
+}
+
+.imagepost-item a.imagepost-content:hover, .featured-post-item a.featured-post-image:hover{
+    transform: scale(1.05) translateY(-4px);
+    transition: all ease-in-out 0.5s;
+}
+
+.featured-post{
+	padding: 50px 0 20px;
+	background: #f1f1f1;
+}
+
+.featured-post-item{
+	position: relative;
+	overflow: hidden;
+	margin-bottom: 30px;
+}
+
+.featured-post-item a.featured-post-image{
+	transition: all ease-in-out 0.5s;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    min-height: 350px;
+}
+
+.featured-post-content{
+	padding: 20px;
+	text-align: center;
+	position: relative;
+    z-index: 1;
+    background: #fff;
+}
+
+.featured-post-content h4{padding: 10px 0;}
+
+.featured-category{color: #ffb606; text-transform: uppercase;}
+
+p.featured-date{
+	color: #ababab;
+	font-size: 13px;
+}
+
+.featured-post-content a.featured-category:hover,
+.featured-post-content h4 a{
+	color: inherit !important;
+}
+
+.navbar-default .navbar-nav>li>a{
+	letter-spacing: 0;
+}
